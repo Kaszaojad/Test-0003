@@ -1,0 +1,5 @@
+J.A.R.V.I.S. for Android
+Personal, non-commercial project. Its design (Gemini Live voice session, tool-calling assistant,
+long_term.json memory layout, prompt style) is derived from "MARK LVII (57)" by FatihMakes,
+licensed CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/). Credit: FatihMakes.
+Non-commercial use only.
